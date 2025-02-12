@@ -1,7 +1,4 @@
-Coronavirus (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus, first identified in Wuhan, China, 
-in late 2019. It spreads primarily through respiratory droplets when an infected person coughs, sneezes, or talks. 
-The virus can also survive on surfaces for some time, leading to indirect transmission. Common symptoms include fever, cough, shortness of breath, fatigue,
-and loss of taste or smell, while severe cases may lead to pneumonia, organ failure, or even death, especially in older adults and individuals with underlying health conditions
+Coronavirus (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus, first identified in Wuhan, China, in late 2019. It spreads primarily through respiratory droplets when an infected person coughs, sneezes, or talks. The virus can also survive on surfaces for some time, leading to indirect transmission. Common symptoms include fever, cough, shortness of breath, fatigue,and loss of taste or smell, while severe cases may lead to pneumonia, organ failure, or even death, especially in older adults and individuals with underlying health conditions
 
 Coronavirus (COVID-19): Dos and Don'ts
 ✅ Dos:
